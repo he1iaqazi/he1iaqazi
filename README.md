@@ -4,12 +4,13 @@
 ---
 
 ## 🌿 About Me
-I’m a Computer Engineering student and a passionate Junior Front‑End Developer who loves creating clean, responsive and intuitive web interfaces.  
-Currently focused on **JavaScript (ES6+), React, and Tailwind CSS**, and gradually stepping into the beautiful world of **AI + Front-End Fusion**.
+With a strong background in **Computer Engineering**, I am on a journey to become a **Front-End Developer** who builds bridges between structured logic and the art of creative design 🌉✨
 
-My vision is to build web experiences that are not just visually engaging—but smart, adaptive, and deeply user‑centric.
+Currently, I am deeply focused on mastering the modern web ecosystem, including **JavaScript (ES6+), React, and Tailwind CSS**, alongside the solid foundations of HTML and CSS. My goal is to build user interfaces that are not only beautiful and responsive but also intelligent and intuitive 🎯
 
-Always learning. Always improving. Always building. 🌱✨
+My ultimate vision is to step into the fascinating world of **Artificial Intelligence (AI)** and merge it with user experience design. I aspire to create products that don’t just respond to user needs but anticipate them 💻🖱️
+
+I am always eager to learn, collaborate, and exchange ideas with professionals in the fields of web development and artificial intelligence 🤝
 
 ---
 
