@@ -3,7 +3,8 @@
 
 ---
 <p align="center">
-  <img src="ec04c48d-5d92-4cc9-a714-2bbb46485d02.png" alt="Helia Ghazi - Front-End Developer" width="320" />
+<img width="1024" height="580" alt="banner" src="https://github.com/user-attachments/assets/47634247-73bb-46ed-a203-39e976318e3d" />
+
 </p>
 ---
 
