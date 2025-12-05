@@ -2,7 +2,7 @@
 <h3 align="center">Junior Front‑End Developer • Transitioning into AI • CE Student</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhnbDEyaGRlNHVmaXY0Z2Fna2x5YTNod3lxdTRoYzU5ZHQ1bm8zdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  <img src="IMAGE_URL_HERE" alt="Helia Ghazi - Front-End Developer" style="max-width: 100%; width: 100%;"/>
 </p>
 
 ---
