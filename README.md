@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src=["https://raw.githubusercontent.com/USERNAME/REPO/main/assets/dev-portrait.png"](https://gapgpt.app/media/server_files/bd91cf4b-33a9-44ce-87c9-f42acb67f572.webp) alt="Helia Ghazi - Front-End Developer" width="320" />
+  <img src="https://gapgpt.app/media/server_files/bd91cf4b-33a9-44ce-87c9-f42acb67f572.webp" alt="Helia Ghazi - Front-End Developer" width="320" />
 </p>
 ---
 
