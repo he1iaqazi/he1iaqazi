@@ -19,24 +19,11 @@ I am always eager to learn, collaborate, and exchange ideas with professionals i
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ My Stack & Tools
 
-### 🌐 Front-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,react,tailwind,figma,git,github,vscode,linkedin" />
 </p>
-
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-### 🔮 Currently Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
----
 
 
 ## 🎓 Certifications  
