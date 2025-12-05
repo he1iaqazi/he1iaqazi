@@ -33,51 +33,6 @@ I am always eager to learn, collaborate, and exchange ideas with professionals i
 
 ---
 
-## 🎯 Featured Projects (Table Format)
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Personal Portfolio** | A modern, clean and responsive portfolio website. | HTML • CSS • JS |
-| **Weather App** | Shows real‑time weather using API integration. | JS • API |
-| **Login / Auth UI** | Elegant login & signup pages with validation. | HTML • CSS • JS |
-| **UI Components Repo** | A growing library of reusable UI blocks. | HTML • CSS |
-
----
-
-## 🎨 UI/UX Playground  
-A space where I experiment with design, creativity, animations, and user flows.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2h3d2Q2cmdsZ3Rqc251ZDY1NmJzYmw3Z3lxMXZqazJxOHNqMnF2dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3V0wW0P5rX4jKkD6/giphy.gif" width="350"/>
-</p>
-
----
-
-## 🚀 Learning Roadmap (AI + Front-End)
-
-### 🌱 Phase 1 – Foundations  
-• Strengthening JavaScript ES6+  
-• Deep dive into React fundamentals  
-• Advanced CSS + Tailwind patterns  
-• Understanding UI/UX design logic  
-
-### 🤖 Phase 2 – Beginning AI  
-• Python (core + clean code)  
-• NumPy basics  
-• Intro to neural networks  
-• Working with simple ML models  
-
-### 🔗 Phase 3 – AI x Front-End (Integration)  
-• Building smart UI components  
-• Using AI APIs for front‑end features  
-• AI‑powered search, suggestions, personalization  
-
-### 🌟 Phase 4 – Vision  
-• Full intelligent interfaces  
-• AI‑enhanced web apps  
-• UX powered by machine intelligence  
-
----
 
 ## 🎓 Certifications  
 • Tech Olympics Front‑End – Quera  
