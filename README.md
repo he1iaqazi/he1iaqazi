@@ -2,6 +2,10 @@
 <h3 align="center">Junior Front‑End Developer • Transitioning into AI • CE Student</h3>
 
 ---
+<p align="center">
+  <img src=["https://raw.githubusercontent.com/USERNAME/REPO/main/assets/dev-portrait.png"](https://gapgpt.app/media/server_files/bd91cf4b-33a9-44ce-87c9-f42acb67f572.webp) alt="Helia Ghazi - Front-End Developer" width="320" />
+</p>
+---
 
 ## 🌿 About Me
 With a strong background in **Computer Engineering**, I am on a journey to become a **Front-End Developer** who builds bridges between structured logic and the art of creative design 🌉✨
