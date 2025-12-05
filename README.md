@@ -50,7 +50,3 @@ I am always eager to learn, collaborate, and exchange ideas with professionals i
 📎 LinkedIn: https://www.linkedin.com/in/heliaghazi  
 📧 Email: heliaghazi2005@gmail.com
 
----
-
-## ✨ Quote  
-*“Code with clarity. Design with empathy. Build with curiosity.”*
