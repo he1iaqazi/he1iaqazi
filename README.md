@@ -78,18 +78,6 @@ A space where I experiment with design, creativity, animations, and user flows.
 
 ---
 
-## 🕒 Skill Timeline
-
----
-
-## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=he1iaqazi&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=he1iaqazi&layout=compact&theme=tokyonight" width="40%" />
-</p>
-
----
-
 ## 🎓 Certifications  
 • Tech Olympics Front‑End – Quera  
 • CWP – HTML & CSS  
@@ -99,7 +87,7 @@ A space where I experiment with design, creativity, animations, and user flows.
 
 ## 📬 Contact  
 📎 LinkedIn: https://www.linkedin.com/in/heliaghazi  
-📧 Email (optional): *Tell me if you want one added*
+📧 Email: heliaghazi2005@gmail.com
 
 ---
 
