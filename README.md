@@ -2,7 +2,7 @@
 <h3 align="center">Junior Front‑End Developer • Transitioning into AI • CE Student</h3>
 
 <p align="center">
-  <img src=""https://raw.githubusercontent.com/he1iaqazi/assets/main/header.png" alt="Helia Ghazi - Developer Header" style="width:100%; max-width:100%; display:block; border-radius:12px;" />
+  <img src="https://raw.githubusercontent.com/he1iaqazi/assets/main/header.png" alt="Helia Ghazi - Developer Header" style="width:100%; max-width:100%; display:block; border-radius:12px;" />
 </p>
 
 
