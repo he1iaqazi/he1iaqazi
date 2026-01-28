@@ -1,7 +1,8 @@
-<h1 align="center">✨ Hi, I'm Helia Ghazi ✨</h1>
-<h3 align="center">Computer Engineering Student • Aspiring AI Engineer • Former Front-End Enthusiast</h3>
+<h1 align="center">✨ Hi, I'm Helia ✨</h1>
+<h3 align="center">Computer Engineering Student • AI developer •</h3>
 
 ---
+
 <p align="center">
 <img width="1024" height="580" alt="banner" src="https://github.com/user-attachments/assets/47634247-73bb-46ed-a203-39e976318e3d" />
 </p>
@@ -9,40 +10,74 @@
 ---
 
 ## 🌿 About Me
-As a **Computer Engineering** student, I started my journey in the tech world by mastering the visuals of the web. After exploring the creative side of **Front-End Development**, my passion for data-driven logic and problem-solving led me to transition into the field of **Artificial Intelligence** 🤖✨
 
-I’ve brought my foundational knowledge of **JavaScript, HTML, and CSS** with me, and I am now deeply immersed in learning how to build intelligent systems that can learn, adapt, and solve complex real-world problems.
+**Computer Engineering** student who started by building web interfaces with **HTML, CSS, and JavaScript**—but quickly realized I wanted to go deeper than just the visual layer.
 
-My goal is to bridge the gap between powerful **AI algorithms** and seamless **User Experiences**, creating tools that aren't just functional, but truly "smart" 🧠💡
+Now I'm diving into **Artificial Intelligence**, currently learning **Python** and working my way through **Machine Learning** and **Deep Learning**. My goal is to create AI systems that are not only intelligent but also deliver seamless user experiences.
 
-I am constantly learning and looking for opportunities to collaborate on innovative projects in Machine Learning and AI.
+I'm excited to collaborate on **AI/ML projects** and connect with others passionate about building smart, impactful solutions 🤖💡
 
 ---
 
 ## 🛠️ My Tech Stack & Tools
 
-### 🧠 Artificial Intelligence & Core
+### 🧠 AI & Machine Learning (Currently Learning)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas" alt="AI Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" alt="AI Stack" />
 </p>
 
-### 🌐 Web Foundations & Tools
+### 🌐 Front-End Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,figma,linkedin" alt="Tools Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" alt="Frontend Stack" />
 </p>
+
+### 🔧 Tools & Environment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" alt="Tools" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 **Python** for Data Science & AI
+- 🤖 **Machine Learning** fundamentals
+- 🧠 **Deep Learning** concepts
+- 🐧 Working with **WSL** (Windows Subsystem for Linux)
 
 ---
 
 ## 🎓 Certifications & Milestones
-* **Tech Olympics Front-End Participant** – Quera
-* **CE Student** – Deepening my knowledge in Algorithms and Data Science.
-* *Currently diving deep into Python for Data Science and Machine Learning.*
+
+- ✅ **Tech Olympics Front-End Participant** – Quera
+- 📖 **Computer Engineering Student** – Deepening knowledge in Algorithms & Data Structures
+- 🚀 Transitioning from Front-End Development to AI/ML
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📫 Let's Connect!
-I love exchanging ideas about the future of AI and technology. Feel free to reach out!
+
+I love exchanging ideas about AI, technology, and the future of intelligent systems. Feel free to reach out!
 
 <p align="left">
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 "Building the bridge between intelligent algorithms and beautiful user experiences."</i>
 </p>
