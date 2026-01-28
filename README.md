@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi, I'm Helia ✨</h1>
-<h3 align="center">Computer Engineering Student • AI developer •</h3>
+<h3 align="center">Computer Engineering Student • AI Developer</h3>
 
 ---
 
@@ -33,7 +33,7 @@ I'm excited to collaborate on **AI/ML projects** and connect with others passion
 
 ### 🔧 Tools & Environment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
 </p>
 
 ---
@@ -58,11 +58,11 @@ I'm excited to collaborate on **AI/ML projects** and connect with others passion
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HeliaGhazi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeliaGhazi&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -72,6 +72,15 @@ I'm excited to collaborate on **AI/ML projects** and connect with others passion
 I love exchanging ideas about AI, technology, and the future of intelligent systems. Feel free to reach out!
 
 <p align="left">
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 "Building the bridge between intelligent algorithms and beautiful user experiences."</i>
+</p>
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
