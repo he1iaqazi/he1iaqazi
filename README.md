@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi, I'm Helia ✨</h1>
-<h3 align="center">CE Student • AI & Data Science Enthusiast</h3>
+<h3 align="center">CE Student • AI</h3>
 
 ---
 
