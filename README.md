@@ -38,15 +38,6 @@ I'm excited to collaborate on AI/ML projects and connect with others passionate 
 
 ---
 
-## 📚 Currently Learning
-
-- 🐍 **Python** for Data Science & AI
-- 🤖 **Machine Learning** fundamentals
-- 🧠 **Deep Learning** concepts
-- 🐧 Working with **WSL** (Windows Subsystem for Linux)
-
----
-
 ## 📫 Let's Connect!
 
 I love exchanging ideas about AI, technology, and the future of intelligent systems. Feel free to reach out!
