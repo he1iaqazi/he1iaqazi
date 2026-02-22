@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi, I'm Helia ✨</h1>
-<h3 align="center">CE Student • AI Developer</h3>
+<h3 align="center">CE Student • AI & Data Science Enthusiast</h3>
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Computer Engineering** student who started by building web interfaces with HTML, CSS, and JavaScript—but quickly realized I wanted to go deeper than just the visual layer🧠🤍
 
-Now I'm diving into Artificial Intelligence, currently learning Python and working my way through Machine Learning and Deep Learning. My goal is to create AI systems that are not only intelligent but also deliver seamless user experiences💻
+Now I'm diving into **Data Science** and **Artificial Intelligence**, currently mastering Python and working my way through Data Processing, Machine Learning, and Deep Learning. My goal is to create AI systems that are not only intelligent but also deliver seamless user experiences💻
 
 I'm excited to collaborate on AI/ML projects and connect with others passionate about building smart, impactful solutions🤖✨
 
@@ -21,14 +21,24 @@ I'm excited to collaborate on AI/ML projects and connect with others passionate 
 
 ## 🛠️ My Tech Stack & Tools
 
-### 🧠 AI & Machine Learning (Currently Learning)
+### 🐍 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" alt="AI Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js" alt="Languages" />
+</p>
+
+### 📊 Data Science & Visualization (Currently Learning)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" alt="Data Science" />
+</p>
+
+### 🧠 AI & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" alt="AI Stack" />
 </p>
 
 ### 🌐 Front-End Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Frontend Stack" />
 </p>
 
 ### 🔧 Tools & Environment
