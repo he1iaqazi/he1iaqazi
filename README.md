@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi, I'm Helia ✨</h1>
-<h3 align="center">CE Student • AI</h3>
+<h3 align="center">CE Student </h3>
 
 ---
 
@@ -19,16 +19,16 @@ I'm excited to collaborate on AI/ML projects and connect with others passionate 
 
 ---
 
-## 🛠️ My Tech Stack & Tools
+## 🛠️ My Tech Stack & Tools## 
 
 ### 🐍 Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js" alt="Languages" />
 </p>
 
-### 📊 Data Science & Visualization (Currently Learning)
+### 📊 Data Science & Analysis (Currently Learning)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" alt="Data Science" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn" alt="Data Science" />
 </p>
 
 ### 🧠 AI & Machine Learning
@@ -45,7 +45,6 @@ I'm excited to collaborate on AI/ML projects and connect with others passionate 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
 </p>
-
 ---
 
 ## 📫 Let's Connect!
