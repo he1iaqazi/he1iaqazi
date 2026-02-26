@@ -65,8 +65,8 @@ I'm excited to collaborate on AI/ML projects and connect with others passionate 
 
 ### 📊 GitHub Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=he1iaqazi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=he1iaqazi&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=he1iaqazi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Helia's GitHub Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=he1iaqazi&layout=compact&theme=dark&hide_border=true" alt="Helia's Top Langs" height="170px" />
 </p>
 
 ---
