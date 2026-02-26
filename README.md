@@ -1,7 +1,7 @@
 # Hi there, I'm Helia! 👋
 
 <p align="center">
-  <img src="[LINK_TO_YOUR_BANNER_IMAGE]" alt="Helia's Banner" width="100%">
+  <img src="https://github.com/he1iaqazi/Black-Minimalist-Linkedin-Banner.jpg.git" alt="Helia's Banner" width="100%">
 </p>
 
 <p align="center">
