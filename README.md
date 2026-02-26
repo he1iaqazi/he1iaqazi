@@ -73,5 +73,3 @@ I'm excited to collaborate on AI/ML projects and connect with others passionate 
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i>
 </p>
-
-</div>
