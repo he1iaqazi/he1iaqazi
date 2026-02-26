@@ -1,63 +1,64 @@
-<h1 align="center">✨ Hi, I'm Helia ✨</h1>
-<h3 align="center">CE Student </h3>
-
----
+# Hi there, I'm Helia! 👋
 
 <p align="center">
-<img width="1024" height="580" alt="banner" src="https://github.com/user-attachments/assets/47634247-73bb-46ed-a203-39e976318e3d" />
+  <img src="[LINK_TO_YOUR_BANNER_IMAGE]" alt="Helia's Banner" width="100%">
 </p>
-
----
-
-## 🌿 About Me
-
-**Computer Engineering** student who started by building web interfaces with HTML, CSS, and JavaScript—but quickly realized I wanted to go deeper than just the visual layer🧠🤍
-
-Now I'm diving into **Data Science** and **Artificial Intelligence**, currently mastering Python and working my way through Data Processing, Machine Learning, and Deep Learning. My goal is to create AI systems that are not only intelligent but also deliver seamless user experiences💻
-
-I'm excited to collaborate on AI/ML projects and connect with others passionate about building smart, impactful solutions🤖✨
-
----
-
-## 🛠️ My Tech Stack & Tools## 
-
-### 🐍 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js" alt="Languages" />
-</p>
-
-### 📊 Data Science & Analysis (Currently Learning)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn" alt="Data Science" />
-</p>
-
-### 🧠 AI & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" alt="AI Stack" />
-</p>
-
-### 🌐 Front-End Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Frontend Stack" />
-</p>
-
-### 🔧 Tools & Environment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
-</p>
----
-
-## 📫 Let's Connect!
-
-I love exchanging ideas about AI, technology, and the future of intelligent systems. Feel free to reach out!
-
-<p align="left">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
 
 <p align="center">
-  <i>💡 "Building the bridge between intelligent algorithms and beautiful user experiences."</i>
+  <a href="mailto:heliaghazi2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/heliaghazi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+### 👤 About Me
+
+Computer Engineering student who started by building web interfaces with **HTML, CSS, and JavaScript**—but quickly realized I wanted to go deeper than just the visual layer. 🧠🤍
+
+Now I'm diving into **Artificial Intelligence**, currently learning **Python** and working my way through Machine Learning and Deep Learning. My goal is to create AI systems that are not only intelligent but also deliver seamless user experiences. 💻
+
+I'm excited to collaborate on AI/ML projects and connect with others passionate about building smart, impactful solutions. 🤖✨
+
+---
+
+### 🛠 Tech Stack
+
+#### 🎨 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+#### 🧠 AI & Data Science (Learning Journey)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+#### 🔧 Tools & OS
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heliaghazi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliaghazi&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+<p align="center">
+  <i>"The best way to predict the future is to invent it."</i>
 </p>
