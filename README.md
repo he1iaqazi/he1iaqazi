@@ -1,8 +1,8 @@
+<div align="center">
+
 # Hi there, I'm Helia! 👋
 
-<p align="center">
-  <img src="https://github.com/he1iaqazi/Black-Minimalist-Linkedin-Banner.jpg.git" alt="Helia's Banner" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/he1iaqazi/he1iaqazi/main/Black%20Minimalist%20Linkedin%20Banner.jpg" alt="Helia's Banner" width="100%">
 
 <p align="center">
   <a href="mailto:heliaghazi2005@gmail.com">
@@ -15,6 +15,8 @@
 
 ---
 
+<div align="left">
+
 ### 👤 About Me
 
 Computer Engineering student who started by building web interfaces with **HTML, CSS, and JavaScript**—but quickly realized I wanted to go deeper than just the visual layer. 🧠🤍
@@ -23,9 +25,13 @@ Now I'm diving into **Artificial Intelligence**, currently learning **Python** a
 
 I'm excited to collaborate on AI/ML projects and connect with others passionate about building smart, impactful solutions. 🤖✨
 
+</div>
+
 ---
 
 ### 🛠 Tech Stack
+
+<div align="left">
 
 #### 🎨 Frontend Development
 <p align="left">
@@ -40,7 +46,6 @@ I'm excited to collaborate on AI/ML projects and connect with others passionate 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 #### 🔧 Tools & OS
@@ -50,15 +55,19 @@ I'm excited to collaborate on AI/ML projects and connect with others passionate 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+</div>
+
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heliaghazi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliaghazi&layout=compact&theme=tokyonight"/>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=he1iaqazi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=he1iaqazi&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i>
 </p>
+
+</div>
