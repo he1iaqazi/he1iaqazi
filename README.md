@@ -65,11 +65,14 @@ I'm excited to collaborate on AI/ML projects and connect with others passionate 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=he1iaqazi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Helia's GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=he1iaqazi&layout=compact&theme=dark&hide_border=true" alt="Helia's Top Langs" height="170px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=he1iaqazi&show_icons=true&theme=tokyonight" alt="Helia's Stats" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=he1iaqazi&layout=compact&theme=tokyonight" alt="Helia's Languages" />
 </p>
 
 ---
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i>
 </p>
+
+</div>
