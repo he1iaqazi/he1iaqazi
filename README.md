@@ -2,7 +2,7 @@
 
 # Hi there, I'm Helia! 👋
 
-<img src="https://raw.githubusercontent.com/he1iaqazi/he1iaqazi/main/Black%20Minimalist%20Linkedin%20Banner.jpg" alt="Helia's Banner" width="100%">
+<img src="Black Minimalist Linkedin Banner.png" alt="Helia's Banner" width="100%">
 
 <p align="center">
   <a href="mailto:heliaghazi2005@gmail.com">
