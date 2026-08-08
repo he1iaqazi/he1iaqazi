@@ -15,15 +15,32 @@
 
 ---
 
+<div align="center">
+
+## 👤 About Me
+
+<div align="left" style="display: inline-block; text-align: left; max-width: 800px;">
+
+*   💻 Computer Engineering student who started by building web interfaces with **HTML, CSS, and JavaScript**—but quickly realized I wanted to go deeper than just the visual layer. 🧠🤍
+*   🚀 Now I'm diving into **Artificial Intelligence**, currently learning **Python** and working my way through Machine Learning and Deep Learning.
+*   🎯 My goal is to create AI systems that are not only intelligent but also deliver seamless user experiences. 💻
+*   🤝 I'm excited to collaborate on AI/ML projects and connect with others passionate about building smart, impactful solutions. 🤖✨
+
+</div>
+
+</div>
+
+---
+
+### 🏆 Academic & Competitive Highlights
+
 <div align="left">
 
-### 👤 About Me
-
-Computer Engineering student who started by building web interfaces with **HTML, CSS, and JavaScript**—but quickly realized I wanted to go deeper than just the visual layer. 🧠🤍
-
-Now I'm diving into **Artificial Intelligence**, currently learning **Python** and working my way through Machine Learning and Deep Learning. My goal is to create AI systems that are not only intelligent but also deliver seamless user experiences. 💻
-
-I'm excited to collaborate on AI/ML projects and connect with others passionate about building smart, impactful solutions. 🤖✨
+#### 🥇 **Front-end Tech Olympics 2025**
+*   **Rank:** Finalist / Top Contender
+*   **Organizer:** Quera
+*   **Details:** Successfully completed the rigorous two-stage high-level programming contest (qualifying and final). This event recognized top-tier skill in modern Front-end engineering and problem-solving.
+*   **Certificate:** *Verify via Quera certificate platform.*
 
 </div>
 
@@ -72,3 +89,5 @@ I'm excited to collaborate on AI/ML projects and connect with others passionate 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=he1iaqazi&theme=dark&hide_border=true" alt="Helia's Streak" />
 </p>
+
+</div>
