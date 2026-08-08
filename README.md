@@ -17,14 +17,14 @@
 
 <div align="center">
 
-## 👤 About Me
+<p style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">👤 About Me</p>
 
 <div align="left" style="display: inline-block; text-align: left; max-width: 800px;">
 
-*   💻 Computer Engineering student who started by building web interfaces with **HTML, CSS, and JavaScript**—but quickly realized I wanted to go deeper than just the visual layer.
-*   🚀 Now I'm diving into **Artificial Intelligence**, currently learning **Python** and working my way through Machine Learning and Deep Learning.
-*   🎯 My goal is to create AI systems that are not only intelligent but also deliver seamless user experiences. 
-*   🤝 I'm excited to collaborate on AI/ML projects and connect with others passionate about building smart, impactful solutions. 
+* 💻 Computer Engineering student who started by building web interfaces with **HTML, CSS, and JavaScript**—but quickly realized I wanted to go deeper than just the visual layer
+* 🚀 Now I'm diving into **Artificial Intelligence**, currently learning **Python** and working my way through Machine Learning and Deep Learning
+* 🎯 My goal is to create AI systems that are not only intelligent but also deliver seamless user experiences
+* 🤝 I'm excited to collaborate on AI/ML projects and connect with others passionate about building smart, impactful solutions
 
 </div>
 
@@ -32,21 +32,21 @@
 
 ---
 
-### 🏆 Academic & Competitive Highlights
+<p align="center" style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">🏆 Academic & Competitive Highlights</p>
 
 <div align="left">
 
 #### 🥇 **Front-end Tech Olympics 2025**
-*   **Rank:** Finalist / Top Contender
-*   **Organizer:** Quera
-*   **Details:** Successfully completed the rigorous two-stage high-level programming contest (qualifying and final). This event recognized top-tier skill in modern Front-end engineering and problem-solving.
-*   **Certificate:** *Verify via Quera certificate platform.*
+* **Rank:** Finalist / Top Contender
+* **Organizer:** Quera
+* **Details:** Successfully completed the rigorous two-stage high-level programming contest (qualifying and final). This event recognized top-tier skill in modern Front-end engineering and problem-solving.
+* **Certificate:** *Verify via Quera certificate platform.*
 
 </div>
 
 ---
 
-### 🛠 Tech Stack
+<p align="center" style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">🛠 Tech Stack</p>
 
 <div align="left">
 
@@ -80,7 +80,8 @@
 
 ---
 
-### 📊 GitHub Stats
+<p align="center" style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">📊 GitHub Stats</p>
+
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=he1iaqazi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Helia's Stats" height="170px" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=he1iaqazi&layout=compact&theme=dark&hide_border=true" alt="Helia's Languages" height="170px" />
