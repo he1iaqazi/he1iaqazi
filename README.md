@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Helia! 👋
+# Hi there, I'm Helia!👋
 
 <img src="Black Minimalist Linkedin Banner.png" alt="Helia's Banner" width="100%">
 
@@ -21,10 +21,10 @@
 
 <div align="left" style="display: inline-block; text-align: left; max-width: 800px;">
 
-*   💻 Computer Engineering student who started by building web interfaces with **HTML, CSS, and JavaScript**—but quickly realized I wanted to go deeper than just the visual layer. 🧠🤍
+*   💻 Computer Engineering student who started by building web interfaces with **HTML, CSS, and JavaScript**—but quickly realized I wanted to go deeper than just the visual layer.
 *   🚀 Now I'm diving into **Artificial Intelligence**, currently learning **Python** and working my way through Machine Learning and Deep Learning.
-*   🎯 My goal is to create AI systems that are not only intelligent but also deliver seamless user experiences. 💻
-*   🤝 I'm excited to collaborate on AI/ML projects and connect with others passionate about building smart, impactful solutions. 🤖✨
+*   🎯 My goal is to create AI systems that are not only intelligent but also deliver seamless user experiences. 
+*   🤝 I'm excited to collaborate on AI/ML projects and connect with others passionate about building smart, impactful solutions. 
 
 </div>
 
